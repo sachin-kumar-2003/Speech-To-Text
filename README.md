@@ -2,6 +2,7 @@
 
 ## Description
 This project is a Speech to text Tool that utilizes speech-to-text functionality to transcribe text to your audio. The application will convert spoken words into text in real-time.
+[https://speech-to-text-beta-one.vercel.app/](https://speech-to-text-beta-one.vercel.app/)
 
 ## Installation
 To set up the project locally, follow these steps:
