@@ -1,4 +1,4 @@
-# Video Transcribing Tool
+# SPEECH TO TEXT
 
 ## Description
 This project is a Speech to text Tool that utilizes speech-to-text functionality to transcribe text to your audio. The application will convert spoken words into text in real-time.
